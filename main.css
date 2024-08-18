@@ -1,0 +1,60 @@
+.logo-img img{
+    width: 500px;
+}
+.contain h2{
+    font-size: 35px;
+    margin-top: -35px;
+    margin-left: 45px;
+}
+
+.from-input input{
+  width: 300px;
+  padding: 15px;
+  margin-top: 20px;
+  border: 5px solid rgb(156, 155, 153);
+  border-radius: 10px;
+  font-size: 19px;
+}
+
+.login-button button{
+    background: blue; color: white;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.create-account button{
+    background: rgb(6, 194, 38); color: white;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-side{
+    width: 45%;
+    margin-top: 45px; 
+}
+.right-side{
+    margin-top: 15px;
+    border: 3px solid rgb(175, 172, 172);
+    width: 380px;
+    text-align: center;
+    border-radius: 10px;
+}
